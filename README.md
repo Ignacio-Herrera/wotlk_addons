@@ -17,7 +17,8 @@
 
 ## Description
 This repository contains the developments of new addons for wow wotlk and cataclysm that I am currently developing. Also contains basic tutorial for LUA programming. Programming in LUA is necessary for the creation of addons.
- 
+The main objective of this repository is to teach the basics of wow addon programming, as well as the creation of three simple addons as an example.
+
 </br>
 </br>
 
