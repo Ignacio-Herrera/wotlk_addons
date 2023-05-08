@@ -27,3 +27,16 @@ This repository contains the developments of new addons for wow wotlk and catacl
 - `Addon 1`: not started.
 - `Addon 2`: not started.
 - `Addon 3`: not started.
+
+
+
+
+
+</br>
+</br>
+
+## Authors
+
+| [<img src="https://avatars.githubusercontent.com/u/48035706?v=4" width=115><br><sub>Jose Ignacio Herrera martinez</sub>](https://github.com/Ignacio-Herrera) |
+| :---: |
+
