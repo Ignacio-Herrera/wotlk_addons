@@ -45,10 +45,10 @@ The addon folder must contain a TOC file and LUA files. The TOC file is what Wow
 
 ## Phases of development :hammer:
 
-- `Tutorials`: under construction.
-- `Addon 1`: not started.
-- `Addon 2`: not started.
-- `Addon 3`: not started.
+- `Tutorials`: under construction. 
+- `Addon 1: N24FirstAddon`: completed. Addon "Hello world", an introduction to variables, functions and events. It shows how to perform a "Hello World" using WOW's own variables, such as player name, and event variables such as user login events. In an easy way it shows how to print messages in the main chat.
+- `Addon 2: N24StoringInformation`: under construction. Addon that teaches about information storage. This addon shows how to store information between sessions.
+- `Addon 3: addon_name`: not started.
 
 
 
