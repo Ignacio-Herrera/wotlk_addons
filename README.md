@@ -57,8 +57,15 @@ The addon folder must contain a TOC file and LUA files. The TOC file is what Wow
 </br>
 </br>
 
-## Authors
+## Author
 
-| [<img src="https://avatars.githubusercontent.com/u/48035706?v=4" width=115><br><sub>Jose Ignacio Herrera martinez</sub>](https://github.com/Ignacio-Herrera) |
+| [<img src="https://avatars.githubusercontent.com/u/48035706?v=4" width=115><br><sub>Jose Ignacio Herrera Martinez</sub>](https://github.com/Ignacio-Herrera) |
 | :---: |
+
+## Collaborators
+
+| [<img src="https://avatars.githubusercontent.com/u/18038591?v=4" width=115><br><sub>Jhony Andrés Herrera Arenas</sub>](https://github.com/jhonnyh748) |
+| :---: |
+
+https://api.github.com/users/username
 
