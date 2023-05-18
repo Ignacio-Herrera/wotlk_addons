@@ -1,0 +1,13 @@
+## Interface: 30300
+## Title: N24WorkingWithLibraries
+## Author: IgnacioHerrera
+## OptDeps: Ace3
+## SavedVariables: mySavedVar
+## SavedVariablesPerCharacter: CharacterVar
+
+#@no-lib-strip@
+libs\LibStub.lua
+libs\AceGUI-3.0\AceGUI-3.0.xml
+#@end-no-lib-strip@
+
+N24WorkingWithLibraries.lua

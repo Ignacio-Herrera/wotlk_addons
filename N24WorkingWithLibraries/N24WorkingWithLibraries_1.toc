@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: N24WorkingWithLibraries
+## Author: IgnacioHerrera
+## Dependencies: Ace3
+## SavedVariables: mySavedVar
+## SavedVariablesPerCharacter: CharacterVar
+
+N24WorkingWithLibraries.lua
