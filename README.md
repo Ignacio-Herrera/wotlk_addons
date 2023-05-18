@@ -6,7 +6,7 @@
 ![Badge licence](https://img.shields.io/badge/licence-GNU_GPLv3-orange)
 ![Badge status](https://img.shields.io/badge/status-under_construction-yellow)
 ![Badge last commit](https://img.shields.io/badge/last_commit-May_2023-brightgreen)
-![Badge last test](https://img.shields.io/badge/last_test-failed-red)
+![Badge last test](https://img.shields.io/badge/last_test-success_on_wotlk_3.3.5a-brightgreen)
 ![Badge version](https://img.shields.io/badge/version-beta_0.0.1-blue)
 ![Badge language](https://img.shields.io/badge/language-US_english-blue)
 ![Badge programming language](https://img.shields.io/badge/programming_language-LUA-orange)
