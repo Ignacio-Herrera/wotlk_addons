@@ -22,7 +22,28 @@ The main objective of this repository is to teach the basics of wow addon progra
 </br>
 </br>
 
-## :hammer:Phases of development
+
+## Useful tools for the development of addons:
+
+IDE for Lua: https://studio.zerobrane.com
+
+Code editor: https://notepad-plus-plus.org/downloads/
+
+Essential addons for debugging: Prat 3.0 and BugSack
+
+</br>
+</br>
+
+## Structure of an addon
+
+The addon folder must contain a TOC file and LUA files. The TOC file is what Wow looks for and reads when initializing the addon. Then, the TOC file contains the names of the addon files that will be executed, such as the Lua files.
+
+![structure of an addon](https://i.imgur.com/pfIyaL5.png)
+
+</br>
+</br>
+
+## Phases of development :hammer:
 
 - `Tutorials`: under construction.
 - `Addon 1`: not started.
