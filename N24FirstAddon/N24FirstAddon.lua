@@ -101,4 +101,12 @@ end
 --------------------------------------- The CORE Addon --------------------------------------
 ---------------------------------------------------------------------------------------------
 
+-- create frame
+local EventFrame = CreateFrame("Frame")
+
+-- register event
+EventFrame:RegisterEvent("PLAYER_LOGIN")
+EventFrame:SetScript("OnEvent", function(self,event,...)
+    ChatFrame1:AddMessage( "N24FirstAddon: Welcome ".. UnitName("Player") )
+end)
 

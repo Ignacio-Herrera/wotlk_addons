@@ -1,8 +1,8 @@
 ## Interface: 30300
-## Title: Dejavus First Addon
-## Author: Nashinny - Ignacio Herrera
+## Title: N24FirstAddon
+## Author: IgnacioHerrera
 ## Dependencies: Ace3
 ## OptDeps: BugSack, !Swatter
 ## SavedVariables: mySavedVar
 
-main_tutorial.lua
+N24FirstAddon.lua
