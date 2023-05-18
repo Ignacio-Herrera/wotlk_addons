@@ -90,5 +90,6 @@ end
 WhyHelloThar = {}
 
 function WhyHelloThar:myFunction() 
-    -do stuff
+    -- do stuff
 end
+
