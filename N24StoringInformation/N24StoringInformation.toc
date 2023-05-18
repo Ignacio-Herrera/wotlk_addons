@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: N24StoringInformation
+## Author: IgnacioHerrera
+## Dependencies: Ace3
+## OptDeps: BugSack, !Swatter
+## SavedVariables: mySavedVar
+
+N24StoringInformation.lua
