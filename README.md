@@ -31,6 +31,22 @@ Code editor: https://notepad-plus-plus.org/downloads/
 
 Essential addons for debugging: Prat 3.0 and BugSack
 
+<a href="http://www.wowace.com/addons/ace3/" target="_blank" rel="nofollow">Ace3</a>  - Ace3 is a pretty popular collection of libraries that can do a great many things. AceGui can help you make your GUI (or Graphical User Interface), or AceDB could help you organize your database (or table) of information, and those are only two of the libraries Ace3 has to offer. Check it out and check out some of the descriptions of the sub-libraries. They also come with a great support forum and are quite well documented.
+
+<a href="http://wowprogramming.com/docs" target="_blank" rel="nofollow">WoW Programming.com</a>  - WoW Programming is a great wow programming site! They have a LOT of documentation on in-game events (linked earlier) and other APIs. This is pretty much my go-to resource when I'm coding an addon.
+
+<a href="http://www.wowpedia.org/World_of_Warcraft_API" target="_blank" rel="nofollow">WoWpedia - API</a>  - This is the resource I go to when WoW Programming is missing something (or vice-versa). WoWpedia has a lot of documentation on the different built in WoW APIs.
+
+<a href="http://www.wowinterface.com/forums/forumdisplay.php?f=16" target="_blank" rel="nofollow">WoWInterface Forums - Lua/XML Help</a>  - If you can't figure out something or are just plain stuck, you can always trying asking a question there. Who knows, they may just answer you.
+
+<a href="https://www.mmo-champion.com/forums/254-Interface-amp-Macros" target="_blank">MMO-Champ Forums - Interface &amp; Macros</a>  - Quite a few knowledgeable people roam the MMO-Champ forums. This can be a good resource.
+
+<a href="http://lua-users.org/wiki/TutorialDirectory" target="_blank" rel="nofollow">Lua-Users Wiki - Tutorial Listing</a>  - This could be a useful resource for more information on coding in Lua in general. If you don't think you quite understand my explanations of some of the basic Lua functions, check here. There's bound to be some that would be helpful.
+
+<a href="http://old.wowace.com/wiki/WelcomeHome_-_Your_first_Ace3_Addon" target="_blank" rel="nofollow">Your First Ace3 Addon</a>  – This is a great tutorial on how to use a quite common library, Ace3 Could be worth reading if you want to learn more about utilizing libraries.
+
+
+
 </br>
 </br>
 
@@ -47,8 +63,8 @@ The addon folder must contain a TOC file and LUA files. The TOC file is what Wow
 
 - `Tutorials`: under construction. 
 - `Addon 1: N24FirstAddon`: completed. Addon "Hello world", an introduction to variables, functions and events. It shows how to perform a "Hello World" using WOW's own variables, such as player name, and event variables such as user login events. In an easy way it shows how to print messages in the main chat.
-- `Addon 2: N24StoringInformation`: under construction. Addon that teaches about information storage. This addon shows how to store information between sessions.
-- `Addon 3: addon_name`: not started.
+- `Addon 2: N24StoringInformation`: completed. Addon that teaches about information storage. This addon shows how to store information between sessions.
+- `Addon 3: N24WorkingWithLibraries`: completed. Addon that teaches about libraries in TOC file. There are two examples for working with libraries.
 
 
 
