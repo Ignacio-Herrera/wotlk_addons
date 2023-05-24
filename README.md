@@ -11,7 +11,7 @@
 ![Badge language](https://img.shields.io/badge/language-US_english-blue)
 ![Badge programming language](https://img.shields.io/badge/programming_language-LUA-orange)
 ![Badge author](https://img.shields.io/badge/author-Ignacio_Herrera-blue)
-![Badge contributors](https://img.shields.io/badge/contributors-None-blue)
+![Badge contributors](https://img.shields.io/badge/contributors-Andres_Herrera-blue)
 
 </br>
 
